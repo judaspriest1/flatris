@@ -9,12 +9,12 @@ variables:
   azureSubscription: 'TWI-DevOps'
   
   # Web app name
-  webAppName: 'LinuxApp5601'
+  webAppName: 'devops-webapp-xjuend'
   
   # Resource group
   resourceGroupName: 'DevOps'
   # Environment name
-  environmentName: 'LinuxApp5601'
+  environmentName: 'devops-webapp-xjuend'
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
   
